@@ -2,6 +2,13 @@
  > Credit goes to the Original Creator [Florian Bösch](https://github.com/pyalot)
  > The associated website can be found here http://lithosphere.codeflow.org/
   
+## Install
+navigate to directory, then run: 
+`sudo -h pip install .`
+
+To run, run
+`python lithosphere/main.py`
+  
 Lithosphere is a GPU driven terrain generator. It allows you to create and export material textures and heightmaps intended for use in realtime graphics applications.
 
 All terrain algorithms are implemented as GLSL fragment shaders operating on floating point textures. This allows realtime modification of the terrain. A graph of nodes is evaluated in order to arrive at the terrain output.
