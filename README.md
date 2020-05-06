@@ -8,6 +8,8 @@ navigate to directory, then run:
 
 To run, run
 `python lithosphere/main.py`
+
+## Lithosphere
   
 Lithosphere is a GPU driven terrain generator. It allows you to create and export material textures and heightmaps intended for use in realtime graphics applications.
 
