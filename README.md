@@ -4,7 +4,7 @@
   
 ## Install
 navigate to directory, then run: 
-`sudo -h pip install .`
+`sudo -H pip install .`
 
 To run, run
 `python lithosphere/main.py`
